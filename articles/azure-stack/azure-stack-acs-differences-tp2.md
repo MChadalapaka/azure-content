@@ -20,7 +20,7 @@
 # Azure-consistent storage: differences and considerations
 
 Azure-consistent storage is the set of storage cloud services in
-Microsoft Azure. Azure-consistent storage provides blob, table, queue, and account
+Microsoft Azure Stack. Azure-consistent storage provides blob, table, queue, and account
 management functionality with Azure-consistent semantics. This article
 summarizes the known Azure-consistent storage differences with Azure Storage. It also summarizes other
 considerations to keep in mind when you deploy the currently publicly available preview
